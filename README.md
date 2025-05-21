@@ -3,7 +3,6 @@ This is a TensorFlow implementation of DeepSSM as described in the following pap
 
 Xiaoli Liu, Jianqin Yin, Huaping Liu, Jun Liu. DeepSSM: Deep State-Space Model for 3D Human Motion Prediction[C]. 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2024: 1184-1189.
 
-![image](https://github.com/user-attachments/assets/e7f155d2-e77a-4973-9d21-6054a645fed8)
 
 ## Setup
 Required python libraries: tensorflow (>=1.0) + opencv + numpy.
